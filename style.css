@@ -1,6 +1,9 @@
 body{
     overflow-x: hidden;
 }
+.downloadbox{
+    margin-bottom: 50px;
+}
 .navbarup{
     gap: 3%;
     display: flex;
@@ -17,6 +20,8 @@ body{
     color: white;
     background-color: rgb(109,24,48);
     box-sizing: border-box;
+    position: relative;
+    top: -40px;
     
 }
 .vieweverything{
